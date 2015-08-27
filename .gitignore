@@ -1,0 +1,5 @@
+workspace/.*
+workspace/jogl
+*.zip
+*.log
+workspace/m-set/.settings/org.eclipse.jdt.core.prefs

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/workspace/jogl/gluegen-rt.jar" sourcepath="C:/Users/IBM_ADMIN/workspace/jogl/gluegen-java-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/workspace/jogl/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/workspace/jogl/jogl-all.jar" sourcepath="C:/Users/IBM_ADMIN/workspace/jogl/jogl-java-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/workspace/jogl/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
